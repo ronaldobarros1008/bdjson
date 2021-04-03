@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "description": "Caneta BIC da cor preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "description": "Notebook Mac Pro Plus Plus",
+      "price": 13999.99
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "description": "Smartphone Samsung S20 ++",
+      "price": 4999.99
+    },
+    {
+      "name": "pneu",
+      "price": 225.55,
+      "description": "Pneu Firestone Aro 15",
+      "id": 5
+    },
+    {
+      "name": "Chave de boca",
+      "description": "Chave de boca tamanho 10 em inox",
+      "price": 10.99,
+      "id": 6
+    }
+  ]
+}
